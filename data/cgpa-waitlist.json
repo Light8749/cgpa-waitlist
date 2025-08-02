@@ -19,8 +19,28 @@
       "id": "17541763890606p7s2lgkb",
       "ip": "105.113.102.247",
       "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "mosesniyi28@gmail.com",
+      "name": "moses",
+      "university": "oou",
+      "currentCGPA": "4.1",
+      "targetCGPA": "4.5",
+      "motivation": "graduate_school",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-02T23:19:26.482Z",
+      "id": "1754176766482wu3u7m8zn",
+      "ip": "105.113.102.247",
+      "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-02T23:13:09.060Z",
-  "totalUsers": 1
+  "lastUpdated": "2025-08-02T23:19:26.483Z",
+  "totalUsers": 2
 }
