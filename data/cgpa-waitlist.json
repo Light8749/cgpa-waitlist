@@ -239,8 +239,28 @@
       "id": "17545852178093b4x5ip9w",
       "ip": "102.89.47.60",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "baloyemari@gmail.com",
+      "name": "Baloye Mary oluwabukola ",
+      "university": "Olabisi onabanjo university ",
+      "currentCGPA": "2.97",
+      "targetCGPA": "3.5",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T16:48:24.956Z",
+      "id": "1754585304956ihgugtliq",
+      "ip": "102.88.113.68",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T16:46:57.809Z",
-  "totalUsers": 12
+  "lastUpdated": "2025-08-07T16:48:24.956Z",
+  "totalUsers": 13
 }
