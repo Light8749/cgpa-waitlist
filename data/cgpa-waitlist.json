@@ -199,8 +199,28 @@
       "id": "17545849157304sx2cd92s",
       "ip": "105.113.108.136",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "adekunlekenny222@gmail.com",
+      "name": "Oluyade Taiwo",
+      "university": "OOU ",
+      "currentCGPA": "2.99",
+      "targetCGPA": "4",
+      "motivation": "graduate_school",
+      "gradingScale": "4.0",
+      "programLength": "5",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T16:45:30.814Z",
+      "id": "17545851308148y8fzkhfz",
+      "ip": "105.113.108.136",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T16:41:55.730Z",
-  "totalUsers": 10
+  "lastUpdated": "2025-08-07T16:45:30.814Z",
+  "totalUsers": 11
 }
