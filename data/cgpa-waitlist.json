@@ -539,8 +539,28 @@
       "id": "17546059367239j74s1vwz",
       "ip": "102.88.113.137",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "abokedeeniola@gmail.com",
+      "name": "Abokede Eniola ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "3.33",
+      "targetCGPA": "4.8",
+      "motivation": "scholarship",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T22:52:32.107Z",
+      "id": "1754607152107j881cl6j4",
+      "ip": "197.211.59.100",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.7 Mobile/15E148 Safari/604.1"
     }
   ],
-  "lastUpdated": "2025-08-07T22:32:16.723Z",
-  "totalUsers": 27
+  "lastUpdated": "2025-08-07T22:52:32.108Z",
+  "totalUsers": 28
 }
