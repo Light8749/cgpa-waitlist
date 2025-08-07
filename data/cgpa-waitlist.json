@@ -499,8 +499,28 @@
       "id": "175460451039387yr9s47d",
       "ip": "102.88.105.211",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "michealfriday124@gmail.com",
+      "name": "Adima Micheal Oghi",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "3.65",
+      "targetCGPA": "4.80",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "5",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T22:27:09.991Z",
+      "id": "175460562999142iku85zb",
+      "ip": "197.211.52.218",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1"
     }
   ],
-  "lastUpdated": "2025-08-07T22:08:30.394Z",
-  "totalUsers": 25
+  "lastUpdated": "2025-08-07T22:27:09.991Z",
+  "totalUsers": 26
 }
