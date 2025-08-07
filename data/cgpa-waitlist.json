@@ -319,8 +319,28 @@
       "id": "1754587009982h4z5dguj4",
       "ip": "102.88.113.42",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "samesekhile@gmail.com",
+      "name": "Elijah Samuel ",
+      "university": "Lagos State University ",
+      "currentCGPA": "4.9",
+      "targetCGPA": "5.0",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "6",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T17:22:05.884Z",
+      "id": "1754587325884y3otqunfi",
+      "ip": "105.113.90.28",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T17:16:49.982Z",
-  "totalUsers": 16
+  "lastUpdated": "2025-08-07T17:22:05.884Z",
+  "totalUsers": 17
 }
