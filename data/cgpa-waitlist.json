@@ -79,8 +79,28 @@
       "id": "1754260864925o103nkgjw",
       "ip": "102.89.46.18",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "enochoriowo06@gmail.com",
+      "name": "Oriowo Enoch Adedolapo ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "4.87",
+      "targetCGPA": "4.9",
+      "motivation": "scholarship",
+      "gradingScale": "5.0",
+      "programLength": "6",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T16:28:21.052Z",
+      "id": "1754584101052m8tsi3vgj",
+      "ip": "102.88.106.74",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-03T22:41:04.925Z",
-  "totalUsers": 4
+  "lastUpdated": "2025-08-07T16:28:21.052Z",
+  "totalUsers": 5
 }
