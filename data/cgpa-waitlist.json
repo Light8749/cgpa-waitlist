@@ -419,8 +419,28 @@
       "id": "1754592495507rzzz35x89",
       "ip": "105.113.90.61",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "abatiayomide26@gmail.com",
+      "name": "Ayomide",
+      "university": "OOU",
+      "currentCGPA": "2.96",
+      "targetCGPA": "3.60",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T18:48:23.782Z",
+      "id": "17545925037833sh1bp7eq",
+      "ip": "105.113.102.57",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1"
     }
   ],
-  "lastUpdated": "2025-08-07T18:48:15.507Z",
-  "totalUsers": 21
+  "lastUpdated": "2025-08-07T18:48:23.783Z",
+  "totalUsers": 22
 }
