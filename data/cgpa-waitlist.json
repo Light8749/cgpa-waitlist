@@ -359,8 +359,28 @@
       "id": "17545877819559byn1j5px",
       "ip": "102.89.83.221",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "aderomoke26@gmail.com",
+      "name": "Hephzibah Aderomoke Adelowokan ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "3.8",
+      "targetCGPA": "4.7",
+      "motivation": "career",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T17:37:32.204Z",
+      "id": "17545882522044x4yxc68w",
+      "ip": "129.205.124.222",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T17:29:41.955Z",
-  "totalUsers": 18
+  "lastUpdated": "2025-08-07T17:37:32.204Z",
+  "totalUsers": 19
 }
