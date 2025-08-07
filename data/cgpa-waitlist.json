@@ -459,8 +459,28 @@
       "id": "1754595118773rf7dwbaca",
       "ip": "102.89.33.239",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "brilliantgroupacademy@gmail.com",
+      "name": "Muraino Lateef ",
+      "university": "OOU",
+      "currentCGPA": "3.8",
+      "targetCGPA": "4.7",
+      "motivation": "scholarship",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T19:54:09.327Z",
+      "id": "1754596449327bywaw4cu8",
+      "ip": "129.205.124.215",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T19:31:58.773Z",
-  "totalUsers": 23
+  "lastUpdated": "2025-08-07T19:54:09.327Z",
+  "totalUsers": 24
 }
