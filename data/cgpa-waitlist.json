@@ -379,8 +379,28 @@
       "id": "17545882522044x4yxc68w",
       "ip": "129.205.124.222",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "soagakareemot@gmail.com",
+      "name": "SOAGA Kareemot ",
+      "university": "Olabisi onabanjo ",
+      "currentCGPA": "3.68",
+      "targetCGPA": "4.0",
+      "motivation": "graduate_school",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T17:53:27.910Z",
+      "id": "1754589207910u0u6rlmyf",
+      "ip": "102.89.83.239",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "lastUpdated": "2025-08-07T17:37:32.204Z",
-  "totalUsers": 19
+  "lastUpdated": "2025-08-07T17:53:27.911Z",
+  "totalUsers": 20
 }
