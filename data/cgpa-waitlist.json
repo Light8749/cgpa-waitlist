@@ -139,8 +139,28 @@
       "id": "17545844474360p5sk9e9f",
       "ip": "102.89.32.163",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "hauwabalamarafa@gmail.com",
+      "name": "Hauwa'u Bala Marafa ",
+      "university": "Ahmadu Bello University Zaria ",
+      "currentCGPA": "4.5",
+      "targetCGPA": "5.0",
+      "motivation": "career",
+      "gradingScale": "5.0",
+      "programLength": "6",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T16:34:40.759Z",
+      "id": "17545844807590gwvm5f3f",
+      "ip": "102.91.105.161",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T16:34:07.436Z",
-  "totalUsers": 7
+  "lastUpdated": "2025-08-07T16:34:40.759Z",
+  "totalUsers": 8
 }
