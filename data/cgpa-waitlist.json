@@ -439,8 +439,28 @@
       "id": "17545925037833sh1bp7eq",
       "ip": "105.113.102.57",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "b7920556@gmail.com",
+      "name": "Ogunmola Boluwatife",
+      "university": "Olabisi onabanjo university",
+      "currentCGPA": "3.54",
+      "targetCGPA": "4.6",
+      "motivation": "career",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T19:31:58.773Z",
+      "id": "1754595118773rf7dwbaca",
+      "ip": "102.89.33.239",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T18:48:23.783Z",
-  "totalUsers": 22
+  "lastUpdated": "2025-08-07T19:31:58.773Z",
+  "totalUsers": 23
 }
