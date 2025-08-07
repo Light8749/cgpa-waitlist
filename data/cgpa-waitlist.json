@@ -119,8 +119,28 @@
       "id": "1754584273825fx394giei",
       "ip": "105.112.17.173",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "akinladeaanuoluwapo66@gmail.com",
+      "name": "Akinlade Aanuolwapo Morenikeji ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "4.67",
+      "targetCGPA": "4.8",
+      "motivation": "career",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T16:34:07.436Z",
+      "id": "17545844474360p5sk9e9f",
+      "ip": "102.89.32.163",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1"
     }
   ],
-  "lastUpdated": "2025-08-07T16:31:13.825Z",
-  "totalUsers": 6
+  "lastUpdated": "2025-08-07T16:34:07.436Z",
+  "totalUsers": 7
 }
