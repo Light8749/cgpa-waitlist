@@ -559,8 +559,28 @@
       "id": "1754607152107j881cl6j4",
       "ip": "197.211.59.100",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.7 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "xrpknight.01@gmail.com",
+      "name": "Phantom Soul ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "3.03",
+      "targetCGPA": "4.5",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T23:04:09.031Z",
+      "id": "1754607849031a7xlt0qm7",
+      "ip": "197.211.57.23",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T22:52:32.108Z",
-  "totalUsers": 28
+  "lastUpdated": "2025-08-07T23:04:09.031Z",
+  "totalUsers": 29
 }
