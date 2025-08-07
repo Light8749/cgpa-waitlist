@@ -219,8 +219,28 @@
       "id": "17545851308148y8fzkhfz",
       "ip": "105.113.108.136",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "ridwanedun247@gmail.com",
+      "name": "Edun Ridwan Abayomi ",
+      "university": "Olabisi onabanjo University ",
+      "currentCGPA": "3.30",
+      "targetCGPA": "4.67",
+      "motivation": "scholarship",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T16:46:57.809Z",
+      "id": "17545852178093b4x5ip9w",
+      "ip": "102.89.47.60",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T16:45:30.814Z",
-  "totalUsers": 11
+  "lastUpdated": "2025-08-07T16:46:57.809Z",
+  "totalUsers": 12
 }
