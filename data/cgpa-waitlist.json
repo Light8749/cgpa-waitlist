@@ -339,8 +339,28 @@
       "id": "1754587325884y3otqunfi",
       "ip": "105.113.90.28",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "klwlabdulmalik@gmail.com",
+      "name": "Kolawole Abdulmalik Ayomide",
+      "university": "Olabisi Onabanjo University",
+      "currentCGPA": "4.70",
+      "targetCGPA": "4.85",
+      "motivation": "scholarship",
+      "gradingScale": "5.0",
+      "programLength": "5",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T17:29:41.955Z",
+      "id": "17545877819559byn1j5px",
+      "ip": "102.89.83.221",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T17:22:05.884Z",
-  "totalUsers": 17
+  "lastUpdated": "2025-08-07T17:29:41.955Z",
+  "totalUsers": 18
 }
