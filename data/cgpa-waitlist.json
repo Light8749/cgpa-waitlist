@@ -299,8 +299,28 @@
       "id": "1754586884473gqvf45n07",
       "ip": "105.113.80.240",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "olasubomiogunlaja@gmail.com",
+      "name": "Ogunlaja Abigeal ",
+      "university": "OOU",
+      "currentCGPA": "4.59",
+      "targetCGPA": "4.65",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-07T17:16:49.982Z",
+      "id": "1754587009982h4z5dguj4",
+      "ip": "102.88.113.42",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1"
     }
   ],
-  "lastUpdated": "2025-08-07T17:14:44.473Z",
-  "totalUsers": 15
+  "lastUpdated": "2025-08-07T17:16:49.982Z",
+  "totalUsers": 16
 }
