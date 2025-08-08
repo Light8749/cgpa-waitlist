@@ -599,8 +599,28 @@
       "id": "1754634931015j5hngnei9",
       "ip": "197.211.63.81",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "ogunfuyimofe@gmail.com",
+      "name": "Ogunfuyi Eyimofe Choice ",
+      "university": "OAU(OBAFEMI AWOLOWO UNIVERSITY)",
+      "currentCGPA": "2.95",
+      "targetCGPA": "4.50",
+      "motivation": "scholarship",
+      "gradingScale": "5.0",
+      "programLength": "5",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T06:47:33.241Z",
+      "id": "1754635653241xuiqfldui",
+      "ip": "197.211.52.196",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-08T06:35:31.015Z",
-  "totalUsers": 30
+  "lastUpdated": "2025-08-08T06:47:33.241Z",
+  "totalUsers": 31
 }
