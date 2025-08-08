@@ -579,8 +579,28 @@
       "id": "1754607849031a7xlt0qm7",
       "ip": "197.211.57.23",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "ummutaahir@gmail.com",
+      "name": "Haneefah Sanusi ",
+      "university": "Olabisi Onabanjo ",
+      "currentCGPA": "4.41",
+      "targetCGPA": "4.65",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "5",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T06:35:31.015Z",
+      "id": "1754634931015j5hngnei9",
+      "ip": "197.211.63.81",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-07T23:04:09.031Z",
-  "totalUsers": 29
+  "lastUpdated": "2025-08-08T06:35:31.015Z",
+  "totalUsers": 30
 }
