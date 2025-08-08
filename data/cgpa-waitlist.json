@@ -759,8 +759,28 @@
       "id": "17546549171028vq5j2z36",
       "ip": "102.91.103.129",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "Ades@qa.team",
+      "name": "Test",
+      "university": "Abu",
+      "currentCGPA": "4.36",
+      "targetCGPA": "4.60",
+      "motivation": "scholarship",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T12:57:54.701Z",
+      "id": "1754657874702sryioscz4",
+      "ip": "105.113.80.121",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-08T12:08:37.102Z",
-  "totalUsers": 38
+  "lastUpdated": "2025-08-08T12:57:54.702Z",
+  "totalUsers": 39
 }
