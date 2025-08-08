@@ -659,8 +659,28 @@
       "id": "1754640543850q53ht74qu",
       "ip": "102.89.22.93",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "annempululu59@gmail.com",
+      "name": "Mpululu Anne ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "3.1",
+      "targetCGPA": "5.0",
+      "motivation": "graduate_school",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T08:12:32.194Z",
+      "id": "1754640752194xa1ylxee8",
+      "ip": "102.89.40.214",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-08T08:09:03.850Z",
-  "totalUsers": 33
+  "lastUpdated": "2025-08-08T08:12:32.194Z",
+  "totalUsers": 34
 }
