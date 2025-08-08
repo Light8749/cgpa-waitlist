@@ -619,8 +619,28 @@
       "id": "1754635653241xuiqfldui",
       "ip": "197.211.52.196",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "abgc@gmail.com",
+      "name": "T hi",
+      "university": "LAOOU",
+      "currentCGPA": "4.79",
+      "targetCGPA": "4.9",
+      "motivation": "scholarship",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T07:53:32.170Z",
+      "id": "17546396121706j9mmv864",
+      "ip": "105.112.194.227",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-08T06:47:33.241Z",
-  "totalUsers": 31
+  "lastUpdated": "2025-08-08T07:53:32.170Z",
+  "totalUsers": 32
 }
