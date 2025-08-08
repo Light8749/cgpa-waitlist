@@ -819,8 +819,28 @@
       "id": "1754662112510wanl5jjzf",
       "ip": "102.89.84.106",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "oluwaseunodofin95@gmail.com",
+      "name": "Anny_BEE❤️😍🥰💍💍",
+      "university": "Olabisi onabanjo university ",
+      "currentCGPA": "3.55",
+      "targetCGPA": "4.5",
+      "motivation": "graduate_school",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T14:15:50.518Z",
+      "id": "17546625505189g73ngd5n",
+      "ip": "102.88.109.15",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1"
     }
   ],
-  "lastUpdated": "2025-08-08T14:08:32.511Z",
-  "totalUsers": 41
+  "lastUpdated": "2025-08-08T14:15:50.518Z",
+  "totalUsers": 42
 }
