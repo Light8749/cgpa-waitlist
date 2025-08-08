@@ -739,8 +739,28 @@
       "id": "1754651666607hw1xffqct",
       "ip": "197.211.59.83",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "saeedah075@gmail.com",
+      "name": "Saeedah",
+      "university": "Nasarawa State University Keffi",
+      "currentCGPA": "3.89",
+      "targetCGPA": "4.9",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "5",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T12:08:37.102Z",
+      "id": "17546549171028vq5j2z36",
+      "ip": "102.91.103.129",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-08T11:14:26.607Z",
-  "totalUsers": 37
+  "lastUpdated": "2025-08-08T12:08:37.102Z",
+  "totalUsers": 38
 }
