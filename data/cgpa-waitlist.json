@@ -639,8 +639,28 @@
       "id": "17546396121706j9mmv864",
       "ip": "105.112.194.227",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "queenanthony135@gmail.com",
+      "name": "Anthony Queen Olamide ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "3.85",
+      "targetCGPA": "4.35",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "5",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T08:09:03.850Z",
+      "id": "1754640543850q53ht74qu",
+      "ip": "102.89.22.93",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-08T07:53:32.170Z",
-  "totalUsers": 32
+  "lastUpdated": "2025-08-08T08:09:03.850Z",
+  "totalUsers": 33
 }
