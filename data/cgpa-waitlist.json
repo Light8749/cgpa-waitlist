@@ -699,8 +699,28 @@
       "id": "1754649231852rb1vjcjpd",
       "ip": "102.89.46.106",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "iseoluwagideon@gmail.com",
+      "name": "Adeyanju Iseoluwa Gideon ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "3.36",
+      "targetCGPA": "4",
+      "motivation": "career",
+      "gradingScale": "5.0",
+      "programLength": "4",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T11:12:27.978Z",
+      "id": "1754651547978bctk6ok5k",
+      "ip": "105.119.12.22",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-08T10:33:51.852Z",
-  "totalUsers": 35
+  "lastUpdated": "2025-08-08T11:12:27.978Z",
+  "totalUsers": 36
 }
