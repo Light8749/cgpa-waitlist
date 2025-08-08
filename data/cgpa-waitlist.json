@@ -719,8 +719,28 @@
       "id": "1754651547978bctk6ok5k",
       "ip": "105.119.12.22",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "olaitanfawaz17@gmail.com",
+      "name": "Olaitan Fawaz Olayeni ",
+      "university": "Olabisi Onabanjo University ",
+      "currentCGPA": "3.95",
+      "targetCGPA": "4.5",
+      "motivation": "personal_goal",
+      "gradingScale": "5.0",
+      "programLength": "5",
+      "source": "cgpa-predictor",
+      "interests": [
+        "academic-planning",
+        "cgpa-tracking",
+        "study-productivity"
+      ],
+      "timestamp": "2025-08-08T11:14:26.607Z",
+      "id": "1754651666607hw1xffqct",
+      "ip": "197.211.59.83",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
     }
   ],
-  "lastUpdated": "2025-08-08T11:12:27.978Z",
-  "totalUsers": 36
+  "lastUpdated": "2025-08-08T11:14:26.607Z",
+  "totalUsers": 37
 }
